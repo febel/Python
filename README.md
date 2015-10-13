@@ -1,2 +1,2 @@
-# Python
-prog python
+Différents scripts pour l'apprentissage du Python.
+
